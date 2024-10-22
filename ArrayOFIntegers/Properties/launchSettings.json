@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ArrayOFIntegers": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
